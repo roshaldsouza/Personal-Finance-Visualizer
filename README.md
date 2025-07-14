@@ -4,9 +4,6 @@ A sleek and interactive web application to track, categorize, and visualize your
 
 ---
 
-## 📸 Demo
-
-![App Screenshot](./snapshot.png)
 
 ---
 
