@@ -5,8 +5,6 @@ A sleek and interactive web application to track, categorize, and visualize your
 ---
 
 
----
-
 ## 🚀 Features
 
 - ✅ Add, edit, and delete income/expense entries
